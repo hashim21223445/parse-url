@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "@types/parse-path": "^7.0.3",
-    "parse-path": "^7.0.0"
+    "parse-path": "^7.1.0"
   },
   "files": [
     "bin/",
